@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "author": "John Doe",
+    "email": "john@example.com",
+    "content": "Great article! I've been following these trends and they're definitely shaping how we build applications today.",
+    "publishDate": "2024-01-16",
+    "replies": [
+      {
+        "Id": 2,
+        "author": "Sarah Johnson",
+        "email": "sarah@example.com",
+        "content": "Thanks John! I'm glad you found it helpful. AI integration is particularly exciting.",
+        "publishDate": "2024-01-16"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "postId": 1,
+    "author": "Emma Wilson",
+    "email": "emma@example.com",
+    "content": "The section on PWAs was really insightful. We're considering implementing this for our next project.",
+    "publishDate": "2024-01-17",
+    "replies": []
+  },
+  {
+    "Id": 4,
+    "postId": 2,
+    "author": "Mark Stevens",
+    "email": "mark@example.com",
+    "content": "Excellent breakdown of React Hooks! The custom hooks section was particularly useful.",
+    "publishDate": "2024-01-13",
+    "replies": []
+  },
+  {
+    "Id": 5,
+    "postId": 3,
+    "author": "Lisa Chen",
+    "email": "lisa@example.com",
+    "content": "This guide helped me understand API scalability much better. Thank you for the practical examples!",
+    "publishDate": "2024-01-11",
+    "replies": []
+  }
+]

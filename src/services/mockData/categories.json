@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Latest trends and insights in technology",
+    "color": "#0066ff",
+    "postCount": 12
+  },
+  {
+    "Id": 2,
+    "name": "Development",
+    "slug": "development",
+    "description": "Programming tutorials and best practices",
+    "color": "#00c851",
+    "postCount": 18
+  },
+  {
+    "Id": 3,
+    "name": "Design",
+    "slug": "design",
+    "description": "UI/UX design principles and inspiration",
+    "color": "#ff4444",
+    "postCount": 8
+  },
+  {
+    "Id": 4,
+    "name": "Backend",
+    "slug": "backend",
+    "description": "Server-side development and architecture",
+    "color": "#ffbb33",
+    "postCount": 6
+  },
+  {
+    "Id": 5,
+    "name": "CSS",
+    "slug": "css",
+    "description": "CSS techniques and modern styling",
+    "color": "#33b5e5",
+    "postCount": 4
+  },
+  {
+    "Id": 6,
+    "name": "JavaScript",
+    "slug": "javascript",
+    "description": "JavaScript fundamentals and advanced concepts",
+    "color": "#9c27b0",
+    "postCount": 15
+  },
+  {
+    "Id": 7,
+    "name": "Best Practices",
+    "slug": "best-practices",
+    "description": "Industry standards and coding practices",
+    "color": "#607d8b",
+    "postCount": 7
+  }
+]
